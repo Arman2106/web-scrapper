@@ -18,7 +18,7 @@ Run the following command in your terminal:
 ```bash
 pip install -r requirements.txt
 ```
-after this you have to run the python script
+### **2.Run the python script
 
 ```bash
 streamlit run app_v1.py
